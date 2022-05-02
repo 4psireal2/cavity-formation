@@ -1,3 +1,3 @@
-# cavity-formation
+# Kinetic analysis of cavity formation
 
 Update later
